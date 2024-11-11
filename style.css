@@ -50,22 +50,22 @@ body{
 }
 
 .one{
-    color: cadetblue;
-    background-color: #a5a4a4;
-
-}
-.two{
     color: green;
     background-color: #a5a4a4;
 
 }
+.two{
+    color: aqua;
+    background-color: #a5a4a4;
+
+}
 .three{
-    color: red;
+    color: blue;
     background-color: #a5a4a4;
 
 }
 .four{
-    color: blue;
+    color: red;
     background-color: #a5a4a4;
 
 }
